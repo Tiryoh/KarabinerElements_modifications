@@ -21,7 +21,6 @@
         }
       ]
     },
-  "rules": [
     {
       "description": "⌘+⇧ +2でGyazo GIF起動",
       "manipulators": [
